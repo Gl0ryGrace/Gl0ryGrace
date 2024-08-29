@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Gl0ryGrace
+- 👀 I’m interested in  exploring data manipulation, visualization, and Analytical techniques, with a focus on SQL, PowerBi, Tableau, Excel and Python. 
+- 🌱 I’m currently learning Data Analysis and Visualization.
+- 💞️ I’m looking to collaborate on Data Analysis Projects and learning from this great community.
+- 📫 How to reach me on Linkedin, just click on this link: https://www.linkedin.com/in/IjiogborGlory110719
+- 😄 Pronouns: Justkeeplearning!
+- ⚡ Fun fact: I am so excited when it comes to learning new skills and building capacities.
